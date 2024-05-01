@@ -1,0 +1,12 @@
+.body{
+    border:1px solid black;
+    padding: 5px;
+    margin: 10px;
+}
+.img-right {
+    float: right;
+    width: 100px;
+    length: 170px;
+
+  }
+  
